@@ -3,6 +3,87 @@
 <head>
 
     <title>WebTech</title>
+
+     <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #74ABE2, #5563DE);
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            color: #fff;
+        }
+
+        h1, h2 {
+            text-align: center;
+            margin: 5px 0;
+        }
+
+        form {
+            background-color: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(8px);
+            border-radius: 15px;
+            padding: 30px 40px;
+            margin-top: 20px;
+            box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
+            width: 400px;
+        }
+
+        table {
+            width: 100%;
+            color: #fff;
+        }
+
+        td {
+            padding: 8px;
+            vertical-align: top;
+        }
+
+        input[type="text"],
+        input[type="number"],
+        input[type="email"],
+        input[type="password"],
+        select {
+            width: 100%;
+            padding: 6px;
+            border: none;
+            border-radius: 5px;
+            outline: none;
+            margin-top: 3px;
+        }
+
+        input[type="file"] {
+            color: #fff;
+        }
+
+        input[type="radio"],
+        input[type="checkbox"] {
+            margin-right: 5px;
+        }
+
+        input[type="submit"],
+        input[type="reset"] {
+            background-color: #00BFA6;
+            color: white;
+            border: none;
+            padding: 8px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 15px;
+            transition: 0.3s;
+        }
+
+        input[type="submit"]:hover,
+        input[type="reset"]:hover {
+            background-color: #008C7A;
+        }
+
+        td[colspan="2"] {
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
     <center>
@@ -66,7 +147,7 @@
                 <td><input type="file"></td>
             </tr>
             <tr>
-                <td colspan="2" style="text-align:center;">
+                <td colspan="2">
                     <input type="submit">
                     <input type="reset">
                 </td>
