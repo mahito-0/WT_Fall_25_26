@@ -46,8 +46,8 @@
 }
 
     .glass-card h2 {
-      margin-bottom: 20px;
-      font-size: 28px;
+      margin-bottom: 10px;
+      font-size: 48px;
       font-weight: 600;
       color: #fff;
       letter-spacing: 1px;
@@ -61,19 +61,19 @@
       border: none;
       border-radius: 10px;
       background: rgba(255, 255, 255, 0.15);
-      color: #fff;
+      color: #000000ff;
       font-size: 15px;
       outline: none;
       transition: all 0.3s ease;
     }
 
     .glass-card input::placeholder {
-      color: #ddd;
+      color: #4b4b4bff;
     }
 
     .glass-card input:focus {
       background: rgba(255, 255, 255, 0.25);
-      box-shadow: 0 0 8px #00ffc6;
+      box-shadow: 0 0 12px rgba(255, 255, 255, 0.6);
     }
 
     /* ---- Button ---- */
