@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<DOCTYPE html>
+<html>
 <head>
   <title>Glassmorphic Forgot Password Page</title>
   <style>
@@ -29,20 +29,21 @@
 
     /* ---- Glass Card ---- */
     .glass-card {
-      background: rgba(255, 255, 255, 0);
-      backdrop-filter: blur(5px);
-      -webkit-backdrop-filter: blur(5px);
-      border-radius: 20px;
-      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
-      height: 500px;
-      width: 450px;
-      padding: 40px 35px;
-      text-align: center;
-      border: 1px solid rgba(255, 255, 255, 0.2);
-      color: #fff;
-      animation: fadeIn 1s ease-in-out;
-      align-content: center
-    }
+  background: rgba(255, 255, 255, 0);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+  height: 500px;
+  width: 480px;
+  padding: 40px 35px;
+  text-align: center;
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  color: #fff;
+  animation: fadeIn 1s ease-in-out;
+  align-content: center;
+  filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.6));
+}
 
     .glass-card h2 {
       margin-bottom: 20px;
