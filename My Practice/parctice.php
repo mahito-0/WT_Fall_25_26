@@ -27,7 +27,7 @@
             background-color: transparent;
             backdrop-filter: blur(10px);
             box-shadow: inset 0 0 10px #ffffff22;
-            border: 1px solid #5a67d8;
+            border: 1px solid #ff0000ff;
             border-radius: 15px;
             box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
             height: 400px;
@@ -38,7 +38,7 @@
         .card h1 {
             margin-bottom: 20px;
             font-size: 32px;
-            color: #000000ff;
+            color: #ffffffff;
         }
         .card input[type="text"],
         .card input[type="password"] {
@@ -70,7 +70,7 @@
             color: #ffffffff;
         }
         .card p a {
-            color: #000000ff;
+            color: #ffffffff;
             text-decoration: none;
         }
         .card p a:hover {
@@ -83,7 +83,7 @@
     <body>
 
     <video id="background-video" autoplay muted loop>
-    <source src="files/sukuna.3840x2160.mp4" type="video/mp4">
+    <source src="sukuna.3840x2160.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
        <div class="card">
