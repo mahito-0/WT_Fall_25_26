@@ -70,7 +70,7 @@
             color: #ffffffff;
         }
         .card p a {
-            color: #ffffffff;
+            color: #ff0000ff;
             text-decoration: none;
         }
         .card p a:hover {
