@@ -35,16 +35,9 @@ To use the project, simply open the files in your web browser.
 ## Folders
 
 *   **CLASS PRACTICE:** Contains code from the lectures.
-    *   `aiub.php`: A registration form for an AIUB Management System. This form includes fields for first name, last name, age, designation, preferred language, preferred course, email, and password.
-    *   `p1.php`: A simple registration form. This form includes fields for name, age, date of birth, and preferred language.
 *   **MID:** Contains my midterm exam code.
 *   **FINAL:** Contains my final exam code.
 *   **My Practice:** Contains my own practice code.
-    *   `fpass.php`: A forgot password page with a glassmorphic design. This page has a video background and a form to reset the password.
-    *   `home.php`: A home page with a video background. This page has a navigation bar with links to the about, login, and signup pages.
-    *   `login.php`: A login page with a glassmorphic design. This page has a video background and a form to login.
-    *   `parctice.php`: A login page with a video background and a glassmorphic card. This page has a form to login.
-    *   `reg.php`: A registration page with a glassmorphic design. This page has a video background and a form to register.
 
 ## Contributing
 
