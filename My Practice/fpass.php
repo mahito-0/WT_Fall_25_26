@@ -14,7 +14,6 @@
       font-family: "Poppins", sans-serif;
       overflow: hidden;
     }
-
     #background-video {
       position: fixed;
       top: 0;
@@ -24,8 +23,6 @@
       object-fit: cover;
       z-index: -1;
     }
-
-
 
     /* ---- Glass Card ---- */
     .glass-card {
@@ -83,7 +80,8 @@
       backdrop-filter: blur(5px);
       -webkit-backdrop-filter: blur(5px);
       border-radius: 20px;
-      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);      border: none;
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+      border: none;
       padding: 12px 0;
       margin-top: 15px;
       border-radius: 30px;
