@@ -55,6 +55,6 @@ Distributed under the MIT License.
 
 ## Contact
 
-SYED AL MAHMUD - (Email not publicly available)
+SYED AL MAHMUD - mahmud.agni@gmail.com
 
 Project Link: [https://github.com/mahito-0/WebTech](https://github.com/mahito-0/WebTech)
